@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de citoyens de l'UE sont affectés par le bruit provenant des voisins ou de la rue ?",
+  "subtitle": "En 2023, 18,1 % des personnes interrogées dans l'UE ont déclaré être affectées par le bruit provenant de leurs voisins ou de la rue, Malte enregistrant la part la plus élevée à 31,3 %, suivie du Luxembourg à 30,2 %, tandis que la Croatie affichait le taux le plus bas à 6,7 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La pollution sonore permet d'évaluer l'impact du bruit sur la qualité de vie. Elle est définie comme l'exposition à des niveaux sonores ambiants dépassant le seuil de confort habituel. Les informations suivantes sont basées sur les déclarations des personnes concernant les nuisances sonores provenant du voisinage ou de la rue.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
