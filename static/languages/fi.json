@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka moni EU:n kansalainen kärsii naapureiden tai kadun melusta?",
+  "subtitle": "Vuonna 2023 18,1 % EU:n väestöstä ilmoitti kokevansa naapureiden tai kadun melun vaikutusta. Maltalla osuus oli suurin, 31,3 %, ja seuraavaksi eniten Luxemburgissa, 30,2 %, kun taas Kroatiassa osuus oli alhaisin, 6,7 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Melusaaste on yksi mittari sille, miten melu voi vaikuttaa yksilön elämänlaatuun. Se määritellään virallisesti altistumiseksi ympäristön äänitasoille, jotka ylittävät tavanomaisen mukavuustason. Seuraavat tiedot perustuvat itse ilmoitettuihin naapureilta tai kadulta tulevan melun aiheuttamiin häiriöihin.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
