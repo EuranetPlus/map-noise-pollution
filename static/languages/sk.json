@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Koľko občanov EÚ je ovplyvnených hlukom od susedov alebo z ulice?",
+  "subtitle": "V roku 2023 uviedlo 18,1 % ľudí v celej EÚ, že ich ovplyvňoval hluk od susedov alebo z ulice, pričom najvyšší podiel zaznamenala Malta s 31,3 %, nasledovalo Luxembursko s 30,2 % a najnižšiu mieru malo Chorvátsko so 6,7 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Hlukové znečistenie poskytuje jeden z ukazovateľov vplyvu, ktorý môže mať hluk na kvalitu života jednotlivca. Formálne je definované ako vystavenie hladinám okolitého zvuku, ktoré presahujú bežné úrovne pohodlia. Nasledujúce informácie sú založené na subjektívne hlásenom rušení hlukom pochádzajúcim od susedov alebo z ulice.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
