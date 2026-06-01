@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad saoránach AE a mbíonn tionchar ag torann ó chomharsana nó ón tsráid orthu?",
+  "subtitle": "Sa bhliain 2023, thuairiscigh 18.1% de dhaoine ar fud an AE go raibh tionchar ag torann ó chomharsana nó ón tsráid orthu, agus an sciar is airde ag Málta ag 31.3%, agus Lucsamburg ina diaidh sin ag 30.2%, agus an ráta is ísle ag an gCróit ag 6.7%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is tomhas amháin é truailliú torainn ar an éifeacht a d’fhéadfadh a bheith ag torann ar cháilíocht beatha duine aonair. Sainmhínítear go foirmiúil é mar nochtadh do leibhéil fuaime comhthimpeallacha atá thar na leibhéil chompord is gnách. Tá an fhaisnéis seo a leanas bunaithe ar chur isteach féinthuairiscithe ó thorann a thagann ó chomharsana nó ón tsráid.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
