@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel EU-burgers ondervinden hinder van geluidsoverlast van buren of de straat?",
+  "subtitle": "In 2023 gaf 18,1% van de mensen in de EU aan last te hebben van geluidsoverlast van buren of de straat. Malta had het hoogste percentage met 31,3%, gevolgd door Luxemburg met 30,2%, terwijl Kroatië het laagste percentage had met 6,7%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Geluidsoverlast is een maatstaf voor de invloed die geluid kan hebben op iemands levenskwaliteit. Het wordt formeel gedefinieerd als blootstelling aan omgevingsgeluidsniveaus die de gebruikelijke comfortgrens overschrijden. De volgende informatie is gebaseerd op zelfgerapporteerde overlast door geluid afkomstig van buren of de straat.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
