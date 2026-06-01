@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui paljusid ELi kodanikke mõjutab naabrite või tänava müra?",
+  "subtitle": "2023. aastal teatas 18,1% ELi elanikest, et neid mõjutab naabrite või tänava müra, kusjuures Maltal registreeriti suurim osakaal 31,3%, järgnes Luksemburg 30,2%-ga, samas kui madalaim oli Horvaatias määr 6,7%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Mürasaaste on üks näitaja müra võimalikust mõjust inimese elukvaliteedile. Ametlikult defineeritakse seda kui kokkupuudet ümbritseva heli tasemega, mis ületab tavapärase mugavustaseme. Järgnev teave põhineb naabritelt või tänavalt kostva müra tekitatud häiringute kohta ise teatatud andmetel.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
