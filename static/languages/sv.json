@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många EU-medborgare påverkas av buller från grannar eller gatan?",
+  "subtitle": "År 2023 rapporterade 18,1 % av människorna i EU att de påverkades av buller från grannar eller gatan, där Malta hade den högsta andelen med 31,3 %, följt av Luxemburg med 30,2 %, medan Kroatien hade den lägsta andelen med 6,7 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Bullerföroreningar ger ett mått på den effekt buller kan ha på en individs livskvalitet. Det definieras formellt som exponering för omgivande ljudnivåer som ligger utanför vanliga komfortnivåer. Informationen som följer är baserad på självrapporterad störning från buller som kommer från grannar eller gatan.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
