@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele EU-Bürger sind von Lärm durch Nachbarn oder die Straße betroffen?",
+  "subtitle": "Im Jahr 2023 gaben 18,1 % der Menschen in der EU an, von Lärm durch Nachbarn oder die Straße betroffen zu sein. Malta verzeichnete mit 31,3 % den höchsten Anteil, gefolgt von Luxemburg mit 30,2 %, während Kroatien mit 6,7 % die niedrigste Quote aufwies.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Lärmbelästigung ist ein Indikator für die Auswirkungen von Lärm auf die Lebensqualität. Sie ist definiert als die Einwirkung von Umgebungsgeräuschen, die über dem üblichen Komfortniveau liegen. Die folgenden Informationen basieren auf subjektiven Angaben zur Lärmbelästigung durch Nachbarn oder die Straße.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
