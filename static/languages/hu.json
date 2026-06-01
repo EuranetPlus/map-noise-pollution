@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hány uniós polgárt érint a szomszédokból vagy az utcáról érkező zaj?",
+  "subtitle": "2023-ban az EU-ban élők 18,1%-a számolt be arról, hogy a szomszédoktól vagy az utcáról érkező zaj zavarja a környezetét. Máltán volt a legmagasabb az arány 31,3%-kal, ezt követte Luxemburg 30,2%-kal, míg Horvátországban volt a legalacsonyabb, 6,7%-os.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "A zajszennyezés az egyik mérőszáma annak, hogy a zaj milyen hatással lehet az egyén életminőségére. Formálisan a szokásos komfortszintet meghaladó környezeti hangszintnek való kitettségként definiálják. Az alábbi információk a szomszédokból vagy az utcáról származó zaj által okozott, önbevalláson alapuló zavaró tényezőkön alapulnak.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
