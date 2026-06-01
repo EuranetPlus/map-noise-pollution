@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik daudz ES iedzīvotāju cieš no kaimiņu vai ielas radītā trokšņa?",
+  "subtitle": "2023. gadā 18,1 % iedzīvotāju visā ES ziņoja, ka viņus ietekmē kaimiņu vai ielas radītais troksnis, un visaugstākais rādītājs bija Maltā — 31,3 %, kam sekoja Luksemburga ar 30,2 %, savukārt viszemākais rādītājs bija Horvātijā — 6,7 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Trokšņa piesārņojums ir viens no rādītājiem, kas parāda trokšņa ietekmi uz cilvēka dzīves kvalitāti. Formāli tas tiek definēts kā apkārtējās vides skaņas līmeņa iedarbība, kas pārsniedz ierasto komforta līmeni. Turpmāk sniegtā informācija ir balstīta uz pašu ziņotajiem traucējumiem, ko rada troksnis no kaimiņiem vai ielas.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
