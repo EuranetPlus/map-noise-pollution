@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántos ciudadanos de la UE se ven afectados por el ruido de los vecinos o de la calle?",
+  "subtitle": "En 2023, el 18,1% de las personas en toda la UE declararon verse afectadas por el ruido de los vecinos o de la calle, registrándose el porcentaje más alto en Malta con un 31,3%, seguido de Luxemburgo con un 30,2%, mientras que Croacia tuvo la tasa más baja con un 6,7%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "La contaminación acústica proporciona una medida del impacto que el ruido puede tener en la calidad de vida de una persona. Se define formalmente como la exposición a niveles de sonido ambiental que superan los niveles de confort habituales. La información que sigue se basa en las molestias causadas por el ruido, según lo informado por los propios usuarios, proveniente de los vecinos o de la calle.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
