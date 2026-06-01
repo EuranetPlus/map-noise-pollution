@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ilu obywateli UE jest narażonych na hałas dochodzący od sąsiadów lub z ulicy?",
+  "subtitle": "W 2023 r. 18,1% mieszkańców UE zgłosiło, że odczuwa wpływ hałasu pochodzącego od sąsiadów lub ulicy. Najwyższy odsetek odnotowano na Malcie (31,3%), następnie w Luksemburgu (30,2%), a najniższy w Chorwacji (6,7%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Zanieczyszczenie hałasem stanowi jeden z mierników wpływu, jaki hałas może mieć na jakość życia jednostki. Formalnie definiuje się je jako narażenie na poziom dźwięku otoczenia przekraczający normalny poziom komfortu. Poniższe informacje opierają się na zgłaszanych przez pacjentów uciążliwościach spowodowanych hałasem pochodzącym od sąsiadów lub z ulicy.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
